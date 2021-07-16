@@ -1,0 +1,13 @@
+################################
+
+#        Cloaking rules        #
+
+################################
+
+## This has to be enabled with the  parameter in the main
+
+## configuration file
+
+*.i2p                   10.191.0.1 
+
+
